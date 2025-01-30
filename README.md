@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @LylyWIN-YT
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning stuff
+- 👋 Hi, I’m Lyly
+- 👀 I love coding
+- 🌱 I know five computer languages
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me at burton.elijah.m@gmail.com
 
 - YouTube: https://www.youtube.com/channel/UCrY_IDby34yONECiKxF7-4g
-- Twitter: https://twitter.com/ElijahB92168644
 - TikTok: https://www.tiktok.com/@lylywinyt?lang=en
 - Twitch: https://www.twitch.tv/lylywin_yt
 
